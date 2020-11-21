@@ -1,0 +1,13 @@
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.exe
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.deps.json
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.runtimeconfig.json
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.runtimeconfig.dev.json
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.dll
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\bin\Debug\netcoreapp3.1\patronobserver_CSharp.pdb
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.csprojAssemblyReference.cache
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.AssemblyInfoInputs.cache
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.AssemblyInfo.cs
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.dll
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.pdb
+C:\Users\Sandra\OneDrive\Escritorio\Programacion\patronobserver_CSharp\patronobserver_CSharp\obj\Debug\netcoreapp3.1\patronobserver_CSharp.genruntimeconfig.cache
